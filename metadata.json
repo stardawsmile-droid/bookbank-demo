@@ -1,0 +1,5 @@
+{
+  "name": "AutoReconcile Pro",
+  "description": "แอปพลิเคชันสำหรับกระทบยอดรายการทางการเงิน (Bank Reconciliation) อัตโนมัติ รองรับการนำเข้าไฟล์ CSV จาก Bank และ GL พร้อมสรุปผลแบบ Visual Dashboard",
+  "requestFramePermissions": []
+}
