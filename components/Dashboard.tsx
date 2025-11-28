@@ -31,7 +31,7 @@ export const Dashboard: React.FC<DashboardProps> = ({ stats }) => {
 
 3. สิ่งที่ AI เรียนรู้ (AI Key Observations)
 ----------------------------------------
-${analysis.aiObservation.map((obs, i) => `- ${obs}`).join('\n')}
+${analysis.aiObservation.map((obs) => `- ${obs}`).join('\n')}
 
 4. สาเหตุหลัก (Root Cause Analysis)
 ----------------------------------------

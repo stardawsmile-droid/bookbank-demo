@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import { Upload, FileType, CheckCircle } from 'lucide-react';
+import { Upload, CheckCircle } from 'lucide-react';
 
 interface FileUploadProps {
   label: string;
